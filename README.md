@@ -1,2 +1,2 @@
 # SimpleStaffManagement
-A simple example of performing CRUD operations in ASP.NET WEB API 2 application (back end) with KnockoutJS for front end.
+A simple example of SPA web application, performing CRUD operations on the basis of ASP.NET WEB API (for back end) and KnockoutJS (for front end).
